@@ -1,0 +1,22 @@
+name: smart_refresh_token
+description: A smart Flutter package for automatic Dio token refresh handling.
+version: 0.0.2
+homepage: https://github.com/yourusername/smart_refresh_token
+
+environment:
+  sdk: ^3.9.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.9.0
+  synchronized: ^3.4.0
+  flutter_secure_storage: ^9.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
