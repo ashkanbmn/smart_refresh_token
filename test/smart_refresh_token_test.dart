@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:smart_refresh_token/example/main.dart';
 import 'package:smart_refresh_token/smart_refresh_token.dart';
-import 'package:dio/dio.dart';
 import 'package:flutter_secure_storage/flutter_secure_storage.dart';
 
 void main() {

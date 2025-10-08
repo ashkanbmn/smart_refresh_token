@@ -1,4 +1,3 @@
-library dio_refresh_token;
 import 'dart:async';
 import 'dart:io';
 import 'package:dio/dio.dart';
